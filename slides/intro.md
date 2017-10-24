@@ -1,9 +1,7 @@
-------
-<!-- .slide: data-background="resources/textures/logo-splash.png"  -->
-
+<!-- .slide: data-background="resources/textures/logo-splash.png" data-transition="fade-in fade-out" -->
 ------
 
-<!-- .slide: data-state="title" data-background="resources/textures/background-radial.jpeg"  -->
+<!-- .slide: data-state="title" data-background="resources/textures/background-radial.jpeg" data-transition="fade-in fade-out" -->
 
 <div class="talk-title">
 	<h1>WebXR: Bringing Mixed Reality to the Web</h1>
