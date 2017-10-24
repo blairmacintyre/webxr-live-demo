@@ -1,11 +1,4 @@
 
-<!-- .slide: data-state="xrslide vrslide" -->
-
-## Recorded Web Presentation Running in our WebXR Viewer</h2>
-<p><em>on an iPhone</em></p>
-<p>Using webxr.js + reveal.js + three.js</p>
-
-------
 <!-- .slide: data-state="xrslide vrslide boombox" style="text-align: left; top: 0px;" -->
 
 <h2>VR</h2>

@@ -4,10 +4,11 @@
 <!-- .slide: data-state="title" data-background="resources/textures/background-radial.jpeg" data-transition="fade-in fade-out" -->
 
 <div class="talk-title">
-	<h1>WebXR: Bringing Mixed Reality to the Web</h1>
+	<h1>WebXR</h1>
+	<h2>Bringing Mixed Reality to the Web</h2>
     <p class="talk-info">
-		<b>Emerging Technologies</b>
-		Mozilla <br>
+		Mozilla <b>Emerging Technologies</b>
+		<br>
 		<br>
 		http://mixedreality.mozilla.org<br>
     </p>
@@ -17,19 +18,28 @@
 
 ------
 
-<!-- .slide: data-background="resources/textures/home-HoloLens-crop.jpg" -->
+<!-- .slide: data-state="xrslide " -->
+
+## Recorded Web Presentation Running in our WebXR Viewer</h2>
+<p><em>on an iPhone</em></p>
+<p>Using webxr.js + reveal.js + three.js</p>
+
+------
+
+<!-- .slide: data-state="xrslide " -->
 
 <div style="background: rgba(32, 32, 32, 0.5);">
 
-<h1>Core Concept: Decouple Apps from Reality</h1>
+<h1>Core Concept</h1>
+<h2>Separate Apps from Reality</h2>
 
-<p>A "webby" approach to MR that</p>
+<p>A <i>webby</i> approach to MR that</p>
 
 <ul>
-<li> Supports platform independent AR/VR web apps</li>
+<li> Supports AR and VR web apps in one API</li>
 <li> Leverages platform capabilities efficiently</li>
-<li> Enables user privacy</li>
-<li> Keeps the user in control</li>
+<li> Respects people's privacy</li>
 </ul>
+AR/VR the keeps the user in control!
 
 </div>
