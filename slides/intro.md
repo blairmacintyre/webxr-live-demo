@@ -18,15 +18,15 @@
 
 ------
 
-<!-- .slide: data-state="xrslide " -->
+<!-- .slide: data-state="xrslide "  data-transition="fade-in " -->
 
 ## Recorded Web Presentation Running in our WebXR Viewer</h2>
-<p><em>on an iPhone</em></p>
+<p><em>on an iPad</em></p>
 <p>Using webxr.js + reveal.js + three.js</p>
 
 ------
 
-<!-- .slide: data-state="xrslide " -->
+<!-- .slide: data-state="xrslide " data-transition="fade-out" -->
 
 <div style="background: rgba(32, 32, 32, 0.5);">
 
